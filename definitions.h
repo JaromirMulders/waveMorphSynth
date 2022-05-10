@@ -1,0 +1,7 @@
+#define PI 3.14159265359
+#define TWOPI 6.28318530718
+#define SAMPLERATE 48000
+#define FRAMESIZE 1024
+#define POTAMNT 16
+#define cTableSize 2048
+#define VOICEAMNT 5
